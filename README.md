@@ -20,6 +20,7 @@ A python script that implements the Gale-Shapley Algorithm in order to find a st
 Output is given in JSON type files with the following format:
 
 {"abe": "cat", "bob": "bea", "cal": "ada"}
+
 ##Gale-Shapley Algorithm
 
 function stableMatching {
